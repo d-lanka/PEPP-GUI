@@ -1,0 +1,14 @@
+{
+  "name": "pepp-server",
+  "version": "1.0.0",
+  "description": "PEPP-Server",
+  "main": "app.js",
+  "author": {
+    "name": "Manoj Bandara"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0"
+  }
+}

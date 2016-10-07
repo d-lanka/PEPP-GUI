@@ -1,0 +1,1 @@
+"use strict"; module.exports = {"app":{"format":"csv","write_to_file":true},"index":{"default":{"subscription_id":"12312adadad","auth":{"username":"dadasd","api_key":"adad"}}},"start":"adasd","end":"adasd","analysis":{"freqDist":[],"timeSeries":[]}}
